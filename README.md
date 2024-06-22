@@ -1,5 +1,8 @@
+<!DOCTYPE html>
 <html>
-  <head>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0;">
     <style type="text/css">
       body {
         /* 內文採用非襯線字體 */
@@ -65,10 +68,8 @@
         color:#000;
       }
     </style>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
-  </head>
-  <body>
+</head>
+<body>
     <h1>遙控家電</h1>
     <div id="lights">
       <ul>
@@ -80,5 +81,5 @@
         <li><a href="sw?id=5"><span class="sw off">OFF</span>藤球燈</a></li>
       </ul>
     </div>
-  </body>
+</body>
 </html>
