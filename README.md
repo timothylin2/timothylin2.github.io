@@ -1,7 +1,7 @@
 
 <html>
-  <head>
-    <style type="text/css">
+  <header>
+<style type="text/css">
   body {
     /* 內文採用非襯線字體 */
     font-family:"微軟正黑體", "黑體-繁", sans-serif;
@@ -65,6 +65,8 @@
     /* 黑色字體 */
     color:#000;
   }
+</style>
+  <head>
 </style>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
